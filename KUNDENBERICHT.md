@@ -16,7 +16,7 @@ Dieser Bericht schafft eine verständliche Grundlage für die gemeinsame Festleg
 
 Sicherheitsrelevante technische Einzelheiten werden in dieser öffentlichen Fassung absichtlich nicht veröffentlicht. Sie sind im privaten technischen Projektarchiv dokumentiert und können im geschützten Rahmen besprochen werden.
 
-## 2. Management-Zusammenfassung
+## 2. Zusammenfassung
 
 Die Website ist öffentlich erreichbar und funktional. Gleichzeitig besteht ein technisch gewachsener Stand mit veralteter Serverbasis, ausstehenden Aktualisierungen, individuellem WordPress-Code und mehreren Sicherheits-, Kompatibilitäts- und Qualitätsrisiken.
 
